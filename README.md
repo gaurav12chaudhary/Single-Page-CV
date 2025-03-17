@@ -4,8 +4,8 @@
 This project is a semantically structured single-page CV/resume created using only HTML and inline CSS. It demonstrates best practices for creating a professional web presence with proper HTML structure and SEO optimization.
 
 ## Live Demo
-[View the CV online](https://your-username.github.io/cv-project/) 
-<!-- Replace with your actual project URL when deployed -->
+https://single-page-cv-f6wb.vercel.app/
+
 
 ## Features Implemented
 
