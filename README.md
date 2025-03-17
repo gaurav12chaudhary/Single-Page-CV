@@ -4,6 +4,9 @@
 This project is a semantically structured single-page CV/resume created using only HTML and inline CSS. It demonstrates best practices for creating a professional web presence with proper HTML structure and SEO optimization.
 
 ## Project URL
+https://roadmap.sh/projects/single-page-cv
+
+## Live DEMO
 https://single-page-cv-skic.vercel.app/
 
 ## Project Requirements Fulfilled
