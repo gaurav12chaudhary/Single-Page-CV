@@ -3,8 +3,8 @@
 ## Project Overview
 This project is a semantically structured single-page CV/resume created using only HTML and inline CSS. It demonstrates best practices for creating a professional web presence with proper HTML structure and SEO optimization.
 
-## Live Demo
-[View the CV online](https://cv-html-gaurav.vercel.app/)
+## Project URL
+https://single-page-cv-skic.vercel.app/
 
 ## Project Requirements Fulfilled
 
@@ -40,7 +40,7 @@ This project is a semantically structured single-page CV/resume created using on
 - Used clean, minimal styling for professional appearance
 
 ## Deployment
-This project is deployed using Vercel and can be accessed at: [https://cv-html-gaurav.vercel.app/](https://cv-html-gaurav.vercel.app/)
+This project is deployed using Vercel and can be accessed at: https://single-page-cv-skic.vercel.app/
 
 ## Technologies Used
 - HTML5
